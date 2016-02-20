@@ -1,0 +1,8 @@
+name: example
+version: 0.0.1
+description: A simple console application.
+dependencies:
+  mojo:
+    git:
+      url: git@github.com:floitschG/mojo-pkg.git
+      ref: isolate
